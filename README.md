@@ -26,9 +26,12 @@
   - code : https://github.com/chenchongthu/DeepCoNN
 * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
 * Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [WWW 2018]
-
+* Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
+  - code : https://github.com/chenchongthu/NARRE
+  
 ## Explainable Recommendation Systems
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018]
+
 ## Out of Category
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
 * Neural Collaborative Filtering [WWW 2017]
@@ -36,7 +39,7 @@
 * MRNet-Product2Vec: A Multi-task Recurrent Neural Network for Product Embeddings [ECML-PKDD 2017]
 * Neural Attentive Session-based Recommendation [CIKM 2017]
   - code : https://github.com/lijingsdu/sessionRec_NARM
-* Variational Autoencoders for Collaborative Filtering [WWW 2018]
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018]
   - code : https://github.com/tebesu/CollaborativeMemoryNetwork
+* Variational Autoencoders for Collaborative Filtering [WWW 2018]
 * Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking [WWW 2018]
