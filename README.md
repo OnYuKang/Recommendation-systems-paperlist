@@ -34,6 +34,8 @@
 * Neural Collaborative Filtering [WWW 2017]
 * Recurrent Recommender Networks [WSDM 2017]
 * MRNet-Product2Vec: A Multi-task Recurrent Neural Network for Product Embeddings [ECML-PKDD 2017]
+* Neural Attentive Session-based Recommendation [CIKM 2017]
+  - code : https://github.com/lijingsdu/sessionRec_NARM
 * Variational Autoencoders for Collaborative Filtering [WWW 2018]
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018]
   - code : https://github.com/tebesu/CollaborativeMemoryNetwork
