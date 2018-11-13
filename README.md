@@ -36,6 +36,8 @@
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
 
 ## Session-Based Recommendation Systems
+* Neural Attentive Session-based Recommendation [CIKM 2017]
+  - code : https://github.com/lijingsdu/sessionRec_NARM
 * Recommending Personalized News in Short User Sessions [RecSys 2017]
 * Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks [RecSys 2017]
 * Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture [RecSys 2017]
@@ -47,9 +49,7 @@
 * Neural Collaborative Filtering [WWW 2017]
 * Recurrent Recommender Networks [WSDM 2017]
 * MRNet-Product2Vec: A Multi-task Recurrent Neural Network for Product Embeddings [ECML-PKDD 2017]
-* Neural Attentive Session-based Recommendation [CIKM 2017]
 * A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation [RecSys 2017]
-  - code : https://github.com/lijingsdu/sessionRec_NARM
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018]
   - code : https://github.com/tebesu/CollaborativeMemoryNetwork
 * Variational Autoencoders for Collaborative Filtering [WWW 2018]
