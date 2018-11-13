@@ -31,6 +31,7 @@
   
 ## Explainable Recommendation Systems
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018]
+* TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
 
 ## Out of Category
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
