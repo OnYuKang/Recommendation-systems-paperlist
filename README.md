@@ -9,6 +9,7 @@
 * A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks [RecSys 2010]
 * Recommender systems with social regularization [WSDM 2011]
 * On Deep Learning for Trust-Aware Recommendations in Social Networks [IEEE 2017]
+* Learning to Rank with Trust and Distrust in Recommender Systems [RecSys 2017]
 
 ## Recommendation Systems with Reviews
 * Collaborative topic modeling for recommending scientific articles [KDD 2011]
@@ -30,15 +31,24 @@
   - code : https://github.com/chenchongthu/NARRE
   
 ## Explainable Recommendation Systems
+* Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018]
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
 
+## Session-Based Recommendation Systems
+* Recommending Personalized News in Short User Sessions [RecSys 2017]
+* Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks [RecSys 2017]
+* Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture [RecSys 2017]
+* A Novel Recommender System for Helping Marathoners to Achieve a New Personal-Best [RecSys 2017]
+
 ## Out of Category
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
+* Learning Multiple Similarities of Users and Items in Recommender Systems [ICDM 2017]
 * Neural Collaborative Filtering [WWW 2017]
 * Recurrent Recommender Networks [WSDM 2017]
 * MRNet-Product2Vec: A Multi-task Recurrent Neural Network for Product Embeddings [ECML-PKDD 2017]
 * Neural Attentive Session-based Recommendation [CIKM 2017]
+* A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation [RecSys 2017]
   - code : https://github.com/lijingsdu/sessionRec_NARM
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018]
   - code : https://github.com/tebesu/CollaborativeMemoryNetwork
