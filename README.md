@@ -4,13 +4,13 @@
 * Recommender systems survey [Knowledge-based systems 2013]
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017]
 
-## Recommender Systems with Social Information 
+## Recommendation Systems with Social Information 
 * SoRec: Social Recommendation Using Probabilistic Matrix Factorization [CIKM 2008]
 * A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks [RecSys 2010]
 * Recommender systems with social regularization [WSDM 2011]
 * On Deep Learning for Trust-Aware Recommendations in Social Networks [IEEE 2017]
 
-## Recommender Systems with Reviews
+## Recommendation Systems with Reviews
 * Collaborative topic modeling for recommending scientific articles [KDD 2011]
   - code : https://github.com/blei-lab/ctr
 * Hidden factors and hidden topics: understanding rating dimensions with review text [RecSys 2013]
