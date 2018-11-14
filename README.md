@@ -46,7 +46,12 @@
   - code : https://github.com/uestcnlp/STAMP
 
 ## Multi-armed Bandit
-* A survey of online experiment design with the stochastic multi-armed bandit [2015][[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
+* A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
+* Collaborative filtering as a multi-armed bandit [NIPS 2015]
+* Data-dependent clustering in exploration-exploitation algorithms [CoRR 2015]
+* Online Context-Aware Recommendation with Time Varying Multi-Arm Bandit [KDD 2016]
+* Dueling bandits with weak regret [CoRR 2017]
+* Multi-dueling bandits with dependent arms [CoRR 2017]
 
 ## Out of Category
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
