@@ -52,6 +52,8 @@
 * Recurrent Recommender Networks [WSDM 2017]
 * MRNet-Product2Vec: A Multi-task Recurrent Neural Network for Product Embeddings [ECML-PKDD 2017]
 * A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation [RecSys 2017]
+* IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models [SIGIR 2017]
+  - code : https://github.com/geek-ai/irgan
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018]
   - code : https://github.com/tebesu/CollaborativeMemoryNetwork
 * Variational Autoencoders for Collaborative Filtering [WWW 2018]
