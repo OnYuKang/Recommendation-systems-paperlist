@@ -46,7 +46,7 @@
   - code : https://github.com/uestcnlp/STAMP
 
 ## Multi-armed Bandit
-* A survey of online experiment design with the stochastic multi-armed bandit [[2015][__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
+* A survey of online experiment design with the stochastic multi-armed bandit [2015][[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
 
 ## Out of Category
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
