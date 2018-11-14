@@ -42,6 +42,8 @@
 * Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks [RecSys 2017]
 * Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture [RecSys 2017]
 * A Novel Recommender System for Helping Marathoners to Achieve a New Personal-Best [RecSys 2017]
+* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
+  - code : https://github.com/uestcnlp/STAMP
 
 ## Out of Category
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
