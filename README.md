@@ -45,6 +45,9 @@
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
 
+## Multi-armed Bandit
+* A survey of online experiment design with the stochastic multi-armed bandit [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
+
 ## Out of Category
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
 * Learning Multiple Similarities of Users and Items in Recommender Systems [ICDM 2017]
