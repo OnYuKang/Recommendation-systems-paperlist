@@ -1,4 +1,4 @@
-# Recommendation_systems_paper
+# Recommendation_systems_paperlist
 
 ## Survey paper
 * Recommender systems survey [Knowledge-based systems 2013]
