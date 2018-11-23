@@ -42,6 +42,7 @@
 * Personalized News Recommendation Using Twitter [IEEE 2013]
 * Deep Neural Networks for YouTube Recommendations [RecSys 2016]
 * Session-based Recommendations with Recurrent Neural Networks [ICLR 2016]
+  - code : https://github.com/hidasib/GRU4Rec
 * Wide & Deep Learning for Recommender Systems [DLRS 2006]
 * Neural Attentive Session-based Recommendation [CIKM 2017]
   - code : https://github.com/lijingsdu/sessionRec_NARM
