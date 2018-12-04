@@ -36,26 +36,28 @@
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
 
 ## Session-Based Recommendation Systems
-* Google news personalization: scalable online collaborative filtering [WWW 2007]
-* Personalized News Recommendation Based on Click Behavior [IUI 2009]
-* The YouTube Video Recommendation System [RecSys 2010]
-* Personalized News Recommendation Using Twitter [IEEE 2013]
-* Deep Neural Networks for YouTube Recommendations [RecSys 2016]
 * Session-based Recommendations with Recurrent Neural Networks [ICLR 2016]
   - code : https://github.com/hidasib/GRU4Rec
-* Wide & Deep Learning for Recommender Systems [DLRS 2006]
 * Neural Attentive Session-based Recommendation [CIKM 2017]
   - code : https://github.com/lijingsdu/sessionRec_NARM
-* Recommending Personalized News in Short User Sessions [RecSys 2017]
 * Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks [RecSys 2017]
 * Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture [RecSys 2017]
 * 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017]
-* Embedding-based News Recommendation for Millions of Users [KDD 2017]
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
  * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
-
+  ### News Recommendation
+  * Google news personalization: scalable online collaborative filtering [WWW 2007]
+  * Personalized News Recommendation Based on Click Behavior [IUI 2009]
+  * Personalized News Recommendation Using Twitter [IEEE 2013]
+  * Recommending Personalized News in Short User Sessions [RecSys 2017]
+  * Embedding-based News Recommendation for Millions of Users [KDD 2017]
+  ### Video Recommendation
+  * The YouTube Video Recommendation System [RecSys 2010]
+  * Deep Neural Networks for YouTube Recommendations [RecSys 2016]
+  * Wide & Deep Learning for Recommender Systems [DLRS 2006]
+  
 ## Multi-Armed Bandit
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
 * Collaborative filtering as a multi-armed bandit [NIPS 2015]
