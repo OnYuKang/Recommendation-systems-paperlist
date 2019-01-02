@@ -25,6 +25,7 @@
   - code : https://github.com/cartopy/ConvMF
 * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017]
   - code : https://github.com/chenchongthu/DeepCoNN
+* Transnets: Learning to transform for recommendation [RecSys 2017]
 * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
 * Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [WWW 2018]
 * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
