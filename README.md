@@ -29,6 +29,7 @@
   - code : https://github.com/rosecatherinek/TransNets
 * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
 * Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [WWW 2018]
+  - code : https://github.com/hustlingchen/ALFM
 * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
   - code : https://github.com/chenchongthu/NARRE
   
