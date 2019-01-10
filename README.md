@@ -11,26 +11,28 @@
 * On Deep Learning for Trust-Aware Recommendations in Social Networks [IEEE 2017]
 * Learning to Rank with Trust and Distrust in Recommender Systems [RecSys 2017]
 
-## Recommendation Systems with Reviews
-* Collaborative topic modeling for recommending scientific articles [KDD 2011]
-  - code : https://github.com/blei-lab/ctr
-* Hidden factors and hidden topics: understanding rating dimensions with review text [RecSys 2013]
-  - code : https://github.com/lipiji/HFT
-* Jointly modeling aspects, ratings and sentiments for movie recommendation [KDD 2014]
-  - code : https://github.com/nihalb/JMARS
-* Ratings meet reviews, a combined approach to recommend [RecSys 2014]
-* Collaborative deep learning for recommender systems [KDD 2015]
-  - code : https://github.com/js05212/CDL
-* Convolutional Matrix Factorization for Document Context-Aware Recommendation [RecSys 2016]
-  - code : https://github.com/cartopy/ConvMF
-* Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017]
-  - code : https://github.com/chenchongthu/DeepCoNN
-* Transnets: Learning to transform for recommendation [RecSys 2017]
-  - code : https://github.com/rosecatherinek/TransNets
-* Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
-* Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [WWW 2018]
-  - code : https://github.com/hustlingchen/ALFM
-* Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
+## Recommendation Systems with text information
+  ### Topic-based approach
+  * Collaborative topic modeling for recommending scientific articles [KDD 2011]
+    - code : https://github.com/blei-lab/ctr
+  * Hidden factors and hidden topics: understanding rating dimensions with review text [RecSys 2013]
+   - code : https://github.com/lipiji/HFT
+  * Jointly modeling aspects, ratings and sentiments for movie recommendation [KDD 2014]
+    - code : https://github.com/nihalb/JMARS
+  * Ratings meet reviews, a combined approach to recommend [RecSys 2014]
+  * Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [WWW 2018]
+    - code : https://github.com/hustlingchen/ALFM
+  ### Deep learning-based approach
+  * Collaborative deep learning for recommender systems [KDD 2015]
+    - code : https://github.com/js05212/CDL
+  * Convolutional Matrix Factorization for Document Context-Aware Recommendation [RecSys 2016]
+    - code : https://github.com/cartopy/ConvMF
+  * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017]
+    - code : https://github.com/chenchongthu/DeepCoNN
+  * Transnets: Learning to transform for recommendation [RecSys 2017]
+    - code : https://github.com/rosecatherinek/TransNets
+  * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
+  * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
   - code : https://github.com/chenchongthu/NARRE
   
 ## Explainable Recommendation Systems
