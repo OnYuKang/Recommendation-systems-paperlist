@@ -33,7 +33,7 @@
     - code : https://github.com/rosecatherinek/TransNets
   * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
   * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
-  - code : https://github.com/chenchongthu/NARRE
+    - code : https://github.com/chenchongthu/NARRE
   
 ## Explainable Recommendation Systems
 * Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
