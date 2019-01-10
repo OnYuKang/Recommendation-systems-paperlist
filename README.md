@@ -16,7 +16,7 @@
   * Collaborative topic modeling for recommending scientific articles [KDD 2011]
     - code : https://github.com/blei-lab/ctr
   * Hidden factors and hidden topics: understanding rating dimensions with review text [RecSys 2013]
-   - code : https://github.com/lipiji/HFT
+    - code : https://github.com/lipiji/HFT
   * Jointly modeling aspects, ratings and sentiments for movie recommendation [KDD 2014]
     - code : https://github.com/nihalb/JMARS
   * Ratings meet reviews, a combined approach to recommend [RecSys 2014]
