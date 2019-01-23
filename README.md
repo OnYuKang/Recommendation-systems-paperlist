@@ -20,6 +20,7 @@
   * Jointly modeling aspects, ratings and sentiments for movie recommendation [KDD 2014]
     - code : https://github.com/nihalb/JMARS
   * Ratings meet reviews, a combined approach to recommend [RecSys 2014]
+  * Exploring User-Specific Information in Music Retrieval [SIGIR 2018]
   * Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [WWW 2018]
     - code : https://github.com/hustlingchen/ALFM
   ### Deep learning-based approach
