@@ -33,7 +33,8 @@
   * Transnets: Learning to transform for recommendation [RecSys 2017]
     - code : https://github.com/rosecatherinek/TransNets
   * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
- 
+  * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
+    - code : https://github.com/chenchongthu/NARRE
   
 ## Explainable Recommendation Systems
 * Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
@@ -49,8 +50,6 @@
 * Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture [RecSys 2017]
 * 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017]
- * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
-    - code : https://github.com/chenchongthu/NARRE
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
  * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
