@@ -10,7 +10,7 @@
 * Recommender systems with social regularization [WSDM 2011]
 * On Deep Learning for Trust-Aware Recommendations in Social Networks [IEEE 2017]
 * Learning to Rank with Trust and Distrust in Recommender Systems [RecSys 2017]
-* Session-based Recommendation with Graph Neural Networks [AAAI 2019]
+
 ## Recommendation Systems with text information
   ### Topic-based approach
   * Collaborative topic modeling for recommending scientific articles [KDD 2011]
@@ -53,6 +53,7 @@
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
  * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
+ * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
   ### News Recommendation
   * Google news personalization: scalable online collaborative filtering [WWW 2007]
   * Personalized News Recommendation Based on Click Behavior [IUI 2009]
