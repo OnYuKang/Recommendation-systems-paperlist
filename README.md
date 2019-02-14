@@ -56,16 +56,16 @@
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. [AAAI 2019] 
  
-  ### News Recommendation
-  * Google news personalization: scalable online collaborative filtering [WWW 2007]
-  * Personalized News Recommendation Based on Click Behavior [IUI 2009]
-  * Personalized News Recommendation Using Twitter [IEEE 2013]
-  * Recommending Personalized News in Short User Sessions [RecSys 2017]
-  * Embedding-based News Recommendation for Millions of Users [KDD 2017]
-  ### Video Recommendation
-  * The YouTube Video Recommendation System [RecSys 2010]
-  * Deep Neural Networks for YouTube Recommendations [RecSys 2016]
-  * Wide & Deep Learning for Recommender Systems [DLRS 2006]
+### News Recommendation
+* Google news personalization: scalable online collaborative filtering [WWW 2007]
+* Personalized News Recommendation Based on Click Behavior [IUI 2009]
+* Personalized News Recommendation Using Twitter [IEEE 2013]
+* Recommending Personalized News in Short User Sessions [RecSys 2017]
+* Embedding-based News Recommendation for Millions of Users [KDD 2017]
+### Video Recommendation
+* The YouTube Video Recommendation System [RecSys 2010]
+* Deep Neural Networks for YouTube Recommendations [RecSys 2016]
+* Wide & Deep Learning for Recommender Systems [DLRS 2006]
   
 ## Multi-Armed Bandit
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
