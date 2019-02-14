@@ -54,6 +54,7 @@
   - code : https://github.com/uestcnlp/STAMP
 * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
+  - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. [AAAI 2019] 
  
 ### News Recommendation
