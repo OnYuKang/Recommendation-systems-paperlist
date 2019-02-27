@@ -3,6 +3,7 @@
 ## Survey paper
 * Recommender systems survey [Knowledge-based systems 2013]
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017]
+* A Survey on Session-based Recommender System [2019] [[__pdf__](https://arxiv.org/pdf/1902.04864.pdf)]
 
 ## Recommendation Systems with Social Information 
 * SoRec: Social Recommendation Using Probabilistic Matrix Factorization [CIKM 2008]
