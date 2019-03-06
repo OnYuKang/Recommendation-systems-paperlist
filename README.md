@@ -64,6 +64,8 @@
 * Personalized News Recommendation Using Twitter [IEEE 2013]
 * Recommending Personalized News in Short User Sessions [RecSys 2017]
 * Embedding-based News Recommendation for Millions of Users [KDD 2017]
+* DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] 
+
 ### Video Recommendation
 * The YouTube Video Recommendation System [RecSys 2010]
 * Deep Neural Networks for YouTube Recommendations [RecSys 2016]
