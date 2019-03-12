@@ -53,11 +53,12 @@
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017]
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
+* Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018]
 * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
   - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. [AAAI 2019] 
- 
+
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
 * Personalized News Recommendation Based on Click Behavior [IUI 2009]
