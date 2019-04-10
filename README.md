@@ -1,5 +1,7 @@
 # Recommendation_systems_paperlist
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ## Survey paper
 * Recommender systems survey [Knowledge-based systems 2013]
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017]
