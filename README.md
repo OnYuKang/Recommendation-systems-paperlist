@@ -11,7 +11,9 @@
 * Recommender systems with social regularization [WSDM 2011]
 * On Deep Learning for Trust-Aware Recommendations in Social Networks [IEEE 2017]
 * Learning to Rank with Trust and Distrust in Recommender Systems [RecSys 2017]
-
+* Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM 2019]
+    - code : https://github.com/chenchongthu/SAMN
+    
 ## Recommendation Systems with text information
   ### Topic-based approach
   * Collaborative topic modeling for recommending scientific articles [KDD 2011]
@@ -36,6 +38,8 @@
   * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
   * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
     - code : https://github.com/chenchongthu/NARRE
+  * Learning Personalized Topical Compositions with Item Response Theory [WSDM 2019]
+  * Uncovering Hidden Structure in Sequence Data via Threading Recurrent Models [WSDM 2019]
   
 ## Explainable Recommendation Systems
 * Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
