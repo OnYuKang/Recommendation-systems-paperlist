@@ -75,7 +75,8 @@
 * The YouTube Video Recommendation System [RecSys 2010]
 * Deep Neural Networks for YouTube Recommendations [RecSys 2016]
 * Wide & Deep Learning for Recommender Systems [DLRS 2016]
-  
+* Content-based Related Video Recommendations [NIPS 2016]
+
 ## Multi-Armed Bandit
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
 * Collaborative filtering as a multi-armed bandit [NIPS 2015]
