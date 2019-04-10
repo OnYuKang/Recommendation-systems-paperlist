@@ -79,6 +79,11 @@
 * Wide & Deep Learning for Recommender Systems [DLRS 2016]
 * Content-based Related Video Recommendations [NIPS 2016]
 
+### Music Recommendation
+* Deep content-based music recommendation [NIPS 2013]
+* Improving Content-based and Hybrid Music Recommendation using Deep Learning [MM 2014]
+* Content-aware collaborative music recommendation using pre-trained neural networks [ISMIR 2015] 
+
 ## Multi-Armed Bandit
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
 * Collaborative filtering as a multi-armed bandit [NIPS 2015]
