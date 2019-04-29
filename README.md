@@ -15,7 +15,9 @@
 * Learning to Rank with Trust and Distrust in Recommender Systems [RecSys 2017]
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM 2019]
     - code : https://github.com/chenchongthu/SAMN
-    
+* Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems [WWW 2019]
+* Heterogeneous Graph Attention Network [WWW 2019]
+
 ## Recommendation Systems with text information
   ### Topic-based approach
   * Collaborative topic modeling for recommending scientific articles [KDD 2011]
