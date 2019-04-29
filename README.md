@@ -64,7 +64,11 @@
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
   - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. [AAAI 2019] 
-
+* Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions [WSDM 2019]
+  - code : https://github.com/BjornarVass/Recsys
+* Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
+  - code : https://github.com/RUCDM/TMRN
+  
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
 * Personalized News Recommendation Based on Click Behavior [IUI 2009]
