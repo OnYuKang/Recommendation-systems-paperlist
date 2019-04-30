@@ -18,7 +18,7 @@
 * Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems [WWW 2019]
 * Heterogeneous Graph Attention Network [WWW 2019]
 
-## Recommendation Systems with text information
+## Recommendation Systems with Text Information
   ### Topic-based approach
   * Collaborative topic modeling for recommending scientific articles [KDD 2011]
     - code : https://github.com/blei-lab/ctr
@@ -115,5 +115,5 @@
 * Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking [WWW 2018]
 * Linked Variational AutoEncoders for Inferring Substitutable and Supplementary Items [WSDM 2019]
   - https://github.com/VRM1/WSDM19
-* RecWalk: Nearly Uncoupled Random Walks for Top-N Recommendation [WSDM2019]
+* RecWalk: Nearly Uncoupled Random Walks for Top-N Recommendation [WSDM 2019]
   - https://github.com/nikolakopoulos/RecWalk
