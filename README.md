@@ -82,6 +82,7 @@
 * DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] 
 
 ### Video Recommendation
+* Video suggestion and discovery for youtube: taking random walks through the view graph [WWW 2008]
 * The YouTube Video Recommendation System [RecSys 2010]
 * Deep Neural Networks for YouTube Recommendations [RecSys 2016]
 * Wide & Deep Learning for Recommender Systems [DLRS 2016]
@@ -91,6 +92,11 @@
 * Deep content-based music recommendation [NIPS 2013]
 * Improving Content-based and Hybrid Music Recommendation using Deep Learning [MM 2014]
 * Content-aware collaborative music recommendation using pre-trained neural networks [ISMIR 2015] 
+
+### Image Recommendation
+* Pagerank for product image search [WWW 2008]
+* Related Pins at Pinterest: The Evolution of a Real-World Recommender System [WWW 2017]
+* Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [WWW 2018]
 
 ## Multi-Armed Bandit
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
