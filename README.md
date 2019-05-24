@@ -17,6 +17,7 @@
     - code : https://github.com/chenchongthu/SAMN
 * Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems [WWW 2019]
 * Heterogeneous Graph Attention Network [WWW 2019]
+* Graph Neural Networks for Social Recommendation [WWW 2019]
 
 ## Recommendation Systems with Text Information
   ### Topic-based approach
