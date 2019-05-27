@@ -19,7 +19,8 @@
 * Heterogeneous Graph Attention Network [WWW 2019]
 * Graph Neural Networks for Social Recommendation [WWW 2019]
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
-
+  - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
+  
 ## Recommendation Systems with Text Information
   ### Topic-based approach
   * Collaborative topic modeling for recommending scientific articles [KDD 2011]
