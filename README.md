@@ -18,6 +18,7 @@
 * Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems [WWW 2019]
 * Heterogeneous Graph Attention Network [WWW 2019]
 * Graph Neural Networks for Social Recommendation [WWW 2019]
+* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
 
 ## Recommendation Systems with Text Information
   ### Topic-based approach
@@ -73,6 +74,10 @@
   - code : https://github.com/BjornarVass/Recsys
 * Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
   - code : https://github.com/RUCDM/TMRN
+* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
+  - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
+* RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019]
+  - code : https://github.com/PengjieRen/RepeatNet
   
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
