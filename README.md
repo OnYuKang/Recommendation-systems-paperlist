@@ -15,12 +15,14 @@
 * Learning to Rank with Trust and Distrust in Recommender Systems [RecSys 2017]
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation [WSDM 2019]
     - code : https://github.com/chenchongthu/SAMN
+* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
+  - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
 * Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems [WWW 2019]
 * Heterogeneous Graph Attention Network [WWW 2019]
 * Graph Neural Networks for Social Recommendation [WWW 2019]
-* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
-  - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
-  
+* GhostLink: Latent Network Inference for Influence-aware Recommendation [WWW 2019]
+* SamWalker: Social Recommendation with Informative Sampling Strategy [WWW 2019]
+
 ## Recommendation Systems with Text Information
   ### Topic-based approach
   * Collaborative topic modeling for recommending scientific articles [KDD 2011]
@@ -33,6 +35,8 @@
   * Exploring User-Specific Information in Music Retrieval [SIGIR 2018]
   * Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews [WWW 2018]
     - code : https://github.com/hustlingchen/ALFM
+  * Exploiting Ratings, Reviews and Relationships for Item Recommendations in Topic Based Social Networks [WWW 2019]
+  
   ### Deep learning-based approach
   * Collaborative deep learning for recommender systems [KDD 2015]
     - code : https://github.com/js05212/CDL
@@ -42,8 +46,8 @@
     - code : https://github.com/chenchongthu/DeepCoNN
   * Transnets: Learning to transform for recommendation [RecSys 2017]
     - code : https://github.com/rosecatherinek/TransNets
-  * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
   * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018]
+  * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
   * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
     - code : https://github.com/chenchongthu/NARRE
   * Learning Personalized Topical Compositions with Item Response Theory [WSDM 2019]
@@ -83,8 +87,9 @@
   - code : https://github.com/RUCDM/TMRN
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
   - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
-* A Simple Convolutional Generative Network for Next Item Recommendation [WSDM2019]
+* A Simple Convolutional Generative Network for Next Item Recommendation [WSDM 2019]
   - code : https://github.com/graytowne/caser_pytorch
+* Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [WWW 2019]
 
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
