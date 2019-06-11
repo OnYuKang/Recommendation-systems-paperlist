@@ -43,11 +43,15 @@
   * Transnets: Learning to transform for recommendation [RecSys 2017]
     - code : https://github.com/rosecatherinek/TransNets
   * Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [WWW 2018]
+  * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018]
   * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018]
     - code : https://github.com/chenchongthu/NARRE
   * Learning Personalized Topical Compositions with Item Response Theory [WSDM 2019]
   * Uncovering Hidden Structure in Sequence Data via Threading Recurrent Models [WSDM 2019]
-  
+  * Gated Attentive-Autoencoder for Content-Aware Recommendation [WSDM 2019]
+    - code : https://github.com/allenjack/GATE
+    
+    
 ## Explainable Recommendation Systems
 * Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018]
@@ -71,15 +75,17 @@
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
   - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. [AAAI 2019] 
+* RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019]
+  - code : https://github.com/PengjieRen/RepeatNet
 * Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions [WSDM 2019]
   - code : https://github.com/BjornarVass/Recsys
 * Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
   - code : https://github.com/RUCDM/TMRN
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
   - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
-* RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019]
-  - code : https://github.com/PengjieRen/RepeatNet
-  
+* A Simple Convolutional Generative Network for Next Item Recommendation [WSDM2019]
+  - code : https://github.com/graytowne/caser_pytorch
+
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
 * Personalized News Recommendation Based on Click Behavior [IUI 2009]
@@ -96,6 +102,7 @@
 * Content-based Related Video Recommendations [NIPS 2016]
 
 ### Music Recommendation
+* Playlist prediction via metric embedding [KDD 2012]
 * Deep content-based music recommendation [NIPS 2013]
 * Improving Content-based and Hybrid Music Recommendation using Deep Learning [MM 2014]
 * Content-aware collaborative music recommendation using pre-trained neural networks [ISMIR 2015] 
@@ -104,6 +111,13 @@
 * Pagerank for product image search [WWW 2008]
 * Related Pins at Pinterest: The Evolution of a Real-World Recommender System [WWW 2017]
 * Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [WWW 2018]
+
+## Time-aware Recommendation (Temporal Dynamics)
+* Time Weight Collaborative Filtering [CIKM 2005]
+* Collaborative Filtering with Temporal Dynamics [KDD 2009]
+* Opportunity Models for E-commerce Recommendation: Right Product, Right Time [SIGIR 2013] 
+* Recurrent Recommender Networks [WSDM 2017]
+* Recurrent Recommendation with Local Coherence [WSDM 2019]
 
 ## Multi-Armed Bandit
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
@@ -114,10 +128,8 @@
 * Multi-dueling bandits with dependent arms [CoRR 2017]
 
 ## Out of Category
-* Collaborative Filtering with Temporal Dynamics [KDD 2009]
 * Learning Multiple Similarities of Users and Items in Recommender Systems [ICDM 2017]
 * Neural Collaborative Filtering [WWW 2017]
-* Recurrent Recommender Networks [WSDM 2017]
 * MRNet-Product2Vec: A Multi-task Recurrent Neural Network for Product Embeddings [ECML-PKDD 2017]
 * A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation [RecSys 2017]
 * IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models [SIGIR 2017]
