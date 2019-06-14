@@ -71,7 +71,8 @@
 * 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017]
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018]
-  - code : https://github.com/graytowne/caser_pytorch
+  - code : https://github.com/graytowne/caser_pytorch [Pytorch]
+  - code : https://github.com/graytowne/caser [Matlab]
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018]
