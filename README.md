@@ -62,6 +62,12 @@
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
 
 ## Session-Based Recommendation Systems
+### Markov-chain based approach
+* Factorizing Personalized Markov Chains for Next-Basket Recommendation [WWW 2010]
+* Where You Like to Go Next: Successive Point-of-Interest Recommendation [IJCAI 2013]
+* Learning Hierarchical Representation Model for NextBasket Recommendation [SIGIR 2015]
+* Fusing Similarity Models with Markov Chains for Sparse Sequential Recommendation [ICDM 2016]
+
 ### RNN based approach
 * Session-based Recommendations with Recurrent Neural Networks [ICLR 2016]
   - code : https://github.com/hidasib/GRU4Rec
@@ -77,6 +83,12 @@
   - code : https://github.com/PengjieRen/RepeatNet
 * Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions [WSDM 2019]
   - code : https://github.com/BjornarVass/Recsys
+
+### MLP based approach
+* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
+  - code : https://github.com/uestcnlp/STAMP
+* Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
+  - code : https://github.com/RUCDM/TMRN
   
 ### CNN based approach 
 * 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
@@ -93,18 +105,6 @@
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
   - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  
   
-### MLP based approach
-* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
-  - code : https://github.com/uestcnlp/STAMP
-* Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
-  - code : https://github.com/RUCDM/TMRN
-
-### Markov-chain based approach
-* Factorizing Personalized Markov Chains for Next-Basket Recommendation [WWW 2010]
-* Where You Like to Go Next: Successive Point-of-Interest Recommendation [IJCAI 2013]
-* Learning Hierarchical Representation Model for NextBasket Recommendation [SIGIR 2015]
-* Fusing Similarity Models with Markov Chains for Sparse Sequential Recommendation [ICDM 2016]
-
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
 * Personalized News Recommendation Based on Click Behavior [IUI 2009]
