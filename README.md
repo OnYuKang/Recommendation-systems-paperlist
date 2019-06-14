@@ -83,12 +83,6 @@
   - code : https://github.com/PengjieRen/RepeatNet
 * Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions [WSDM 2019]
   - code : https://github.com/BjornarVass/Recsys
-
-### MLP based approach
-* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
-  - code : https://github.com/uestcnlp/STAMP
-* Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
-  - code : https://github.com/RUCDM/TMRN
   
 ### CNN based approach 
 * 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
@@ -105,6 +99,12 @@
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
   - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  
   
+### Other approach
+* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
+  - code : https://github.com/uestcnlp/STAMP
+* Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
+  - code : https://github.com/RUCDM/TMRN
+
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
 * Personalized News Recommendation Based on Click Behavior [IUI 2009]
