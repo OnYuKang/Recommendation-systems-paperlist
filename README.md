@@ -62,37 +62,44 @@
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
 
 ## Session-Based Recommendation Systems
+### RNN based approach
 * Session-based Recommendations with Recurrent Neural Networks [ICLR 2016]
   - code : https://github.com/hidasib/GRU4Rec
 * Neural Attentive Session-based Recommendation [CIKM 2017]
   - code : https://github.com/lijingsdu/sessionRec_NARM
 * Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks [RecSys 2017]
-* Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture [RecSys 2017]
-* 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017]
-* Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018]
-  - code : https://github.com/graytowne/caser_pytorch [Pytorch]
-  - code : https://github.com/graytowne/caser [Matlab]
-* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
-  - code : https://github.com/uestcnlp/STAMP
+* Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture [RecSys 2017]
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018]
 * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
-* Session-based Recommendation with Graph Neural Networks [AAAI 2019]
-  - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. [AAAI 2019] 
 * RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019]
   - code : https://github.com/PengjieRen/RepeatNet
 * Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions [WSDM 2019]
   - code : https://github.com/BjornarVass/Recsys
-* Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
-  - code : https://github.com/RUCDM/TMRN
-* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
-  - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
+  
+### CNN based approach 
+* 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
+* Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018]
+  - code : https://github.com/graytowne/caser_pytorch [Pytorch]
+  - code : https://github.com/graytowne/caser [Matlab]
+* Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [WWW 2019]
 * A Simple Convolutional Generative Network for Next Item Recommendation [WSDM 2019]
   - code : https://github.com/graytowne/caser_pytorch
-* Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [WWW 2019]
+  
+### GNN based approach
+* Session-based Recommendation with Graph Neural Networks [AAAI 2019]
+  - code : https://github.com/CRIPAC-DIG/SR-GNN
+* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
+  - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  
+  
+### MLP based approach
+* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
+  - code : https://github.com/uestcnlp/STAMP
+* Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
+  - code : https://github.com/RUCDM/TMRN
 
-### Markov chain based Recommmendation Systems
+### Markov-chain based approach
 * Factorizing Personalized Markov Chains for Next-Basket Recommendation [WWW 2010]
 * Where You Like to Go Next: Successive Point-of-Interest Recommendation [IJCAI 2013]
 * Learning Hierarchical Representation Model for NextBasket Recommendation [SIGIR 2015]
