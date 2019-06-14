@@ -135,6 +135,7 @@
 * Time Weight Collaborative Filtering [CIKM 2005]
 * Collaborative Filtering with Temporal Dynamics [KDD 2009]
 * Opportunity Models for E-commerce Recommendation: Right Product, Right Time [SIGIR 2013] 
+* Multi-rate deep learning for temporal recommendation [SIGIR 2016]
 * Recurrent Recommender Networks [WSDM 2017]
 * Recurrent Recommendation with Local Coherence [WSDM 2019]
 
