@@ -91,6 +91,12 @@
   - code : https://github.com/graytowne/caser_pytorch
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [WWW 2019]
 
+### Markov chain based Recommmendation Systems
+* Factorizing Personalized Markov Chains for Next-Basket Recommendation [WWW 2010]
+* Where You Like to Go Next: Successive Point-of-Interest Recommendation [IJCAI 2013]
+* Learning Hierarchical Representation Model for NextBasket Recommendation [SIGIR 2015]
+* Fusing Similarity Models with Markov Chains for Sparse Sequential Recommendation [ICDM 2016]
+
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
 * Personalized News Recommendation Based on Click Behavior [IUI 2009]
