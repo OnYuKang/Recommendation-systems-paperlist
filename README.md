@@ -102,6 +102,8 @@
 ### Other approach
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
+* Self-Attentive Sequential Recommendation [ICDM 2018]
+  - code : https://github.com/kang205/SASRec
 * Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
   - code : https://github.com/RUCDM/TMRN
 
