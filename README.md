@@ -83,7 +83,8 @@
   - code : https://github.com/PengjieRen/RepeatNet
 * Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions [WSDM 2019]
   - code : https://github.com/BjornarVass/Recsys
-  
+* Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks [KDD 2019]
+
 ### CNN based approach 
 * 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018]
