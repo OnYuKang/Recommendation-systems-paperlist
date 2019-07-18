@@ -94,7 +94,7 @@
   - code : https://github.com/graytowne/caser_pytorch
   
 ### GNN based approach
-* * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018]
+* Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018]
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
   - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
