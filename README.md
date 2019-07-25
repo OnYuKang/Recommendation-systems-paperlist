@@ -110,6 +110,7 @@
   - code : https://github.com/kang205/SASRec
 * Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
   - code : https://github.com/RUCDM/TMRN
+* Hierarchical Neural Variational Model for Personalized Sequential Recommendation [WWW 2019]
 
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
