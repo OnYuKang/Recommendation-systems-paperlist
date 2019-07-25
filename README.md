@@ -84,6 +84,7 @@
 * Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions [WSDM 2019]
   - code : https://github.com/BjornarVass/Recsys
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks [KDD 2019]
+* AIR: Attentional Intention-Aware Recommender Systems [ICDE 2019]
 
 ### CNN based approach 
 * 3D Convolutional Networks for Session-based Recommendation with Content Features [RecSys 2017]
@@ -94,7 +95,8 @@
 * A Simple Convolutional Generative Network for Next Item Recommendation [WSDM 2019]
   - code : https://github.com/graytowne/caser_pytorch
   
-### GNN based approach
+### Graph based approach
+* Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [KDD 2018]
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018]
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019]
   - code : https://github.com/CRIPAC-DIG/SR-GNN
