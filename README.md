@@ -149,12 +149,11 @@
 * Recurrent Recommendation with Local Coherence [WSDM 2019]
 
 ## Multi-Armed Bandit
+* A Contextual-Bandit Approach to Personalized News Article Recommendation [WWW 2010]
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
 * Collaborative filtering as a multi-armed bandit [NIPS 2015]
-* Data-dependent clustering in exploration-exploitation algorithms [CoRR 2015]
 * Online Context-Aware Recommendation with Time Varying Multi-Arm Bandit [KDD 2016]
-* Dueling bandits with weak regret [CoRR 2017]
-* Multi-dueling bandits with dependent arms [CoRR 2017]
+* Collaborative Filtering Bandits [SIGIR 2016]
 
 ## Out of Category
 * Learning Multiple Similarities of Users and Items in Recommender Systems [ICDM 2017]
