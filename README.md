@@ -112,6 +112,7 @@
 * Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
   - code : https://github.com/RUCDM/TMRN
 * Hierarchical Neural Variational Model for Personalized Sequential Recommendation [WWW 2019]
+* BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer [CIKM 2019]
 
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
