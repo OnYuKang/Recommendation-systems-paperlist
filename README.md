@@ -21,6 +21,7 @@
 * Graph Neural Networks for Social Recommendation [WWW 2019]
 * GhostLink: Latent Network Inference for Influence-aware Recommendation [WWW 2019]
 * SamWalker: Social Recommendation with Informative Sampling Strategy [WWW 2019]
+* Social Recommendation with Optimal Limited Attention [KDD 2019]
 
 ## Recommendation Systems with Text Information
   ### Topic-based approach
@@ -53,7 +54,7 @@
   * Uncovering Hidden Structure in Sequence Data via Threading Recurrent Models [WSDM 2019]
   * Gated Attentive-Autoencoder for Content-Aware Recommendation [WSDM 2019]
     - code : https://github.com/allenjack/GATE
-    
+  * DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation [KDD 2019]   
     
 ## Explainable Recommendation Systems
 * Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
@@ -113,6 +114,10 @@
   - code : https://github.com/RUCDM/TMRN
 * Hierarchical Neural Variational Model for Personalized Sequential Recommendation [WWW 2019]
 * BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer [CIKM 2019]
+* Hierarchical Gating Networks for Sequential Recommendation [KDD 2019]
+* Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics [KDD 2019]
+* Streaming Session-based Recommendation [KDD 2019]
+* Hierarchical Gating Networks for Sequential Recommendation [KDD 2019]
 
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
@@ -121,6 +126,7 @@
 * Recommending Personalized News in Short User Sessions [RecSys 2017]
 * Embedding-based News Recommendation for Millions of Users [KDD 2017]
 * DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] 
+* NPA: Neural News Recommendation with Personalized Attention [KDD 2019]
 
 ### Video Recommendation
 * Video suggestion and discovery for youtube: taking random walks through the view graph [WWW 2008]
