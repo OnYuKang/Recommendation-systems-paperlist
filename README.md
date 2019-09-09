@@ -118,6 +118,7 @@
 * Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics [KDD 2019]
 * Streaming Session-based Recommendation [KDD 2019]
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019]
+* Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit [KDD 2019]
 
 ### News Recommendation
 * Google news personalization: scalable online collaborative filtering [WWW 2007]
