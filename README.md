@@ -67,7 +67,9 @@
 * Where You Like to Go Next: Successive Point-of-Interest Recommendation [IJCAI 2013]
 * Learning Hierarchical Representation Model for NextBasket Recommendation [SIGIR 2015]
 * Fusing Similarity Models with Markov Chains for Sparse Sequential Recommendation [ICDM 2016]
-
+* Translation-based Recommendation [RecSys 2017]
+    - code : https://drive.google.com/file/d/0B9Ck8jw-TZUEVmdROWZKTy1fcEE/view
+    
 ### RNN based approach
 * Session-based Recommendations with Recurrent Neural Networks [ICLR 2016]
   - code : https://github.com/hidasib/GRU4Rec
