@@ -107,6 +107,7 @@
 
 ### Other approach
 * Diversifying Personalized Recommendation with User-session Context [IJCAI 2017]
+* Translation-based Factorization Machines for Sequential Recommendation [RecSys 2018]
 * Attention-Based Transactional Context Embedding for Next-Item Recommendation [AAAI 2018]
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
   - code : https://github.com/uestcnlp/STAMP
