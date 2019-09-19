@@ -104,6 +104,7 @@
   - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
   - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  
+* Graph Contextualized Self-Attention Network for Session-based Recommendation [IJCAI 2019]
 
 ### Other approach
 * Diversifying Personalized Recommendation with User-session Context [IJCAI 2017]
