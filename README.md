@@ -146,6 +146,16 @@
 * Improving Content-based and Hybrid Music Recommendation using Deep Learning [MM 2014]
 * Content-aware collaborative music recommendation using pre-trained neural networks [ISMIR 2015] 
 
+### Automatic Playlist Continuation
+* Two-stage Model for Automatic Playlist Continuation at Scale [RecSys 2018]
+  - code : https://github.com/layer6ai-labs/RecSys2018
+* MMCF: Multimodal Collaborative Filtering for Automatic Playlist Continuation [RecSys 2018]
+  - code : https://github.com/hojinYang/spotify_recSys_challenge_2018
+* Artist-driven layering and user’s behaviour impact on recommendations in a playlist continuation scenario [RecSys 2018]
+  - code : https://github.com/tmscarla/spotify-recsys-challenge
+* A hybrid two-stage recommender system for automatic playlist continuation [RecSys 2018]
+  - code : https://github.com/VasiliyRubtsov/recsys2018
+
 ### Image Recommendation
 * Pagerank for product image search [WWW 2008]
 * Related Pins at Pinterest: The Evolution of a Real-World Recommender System [WWW 2017]
