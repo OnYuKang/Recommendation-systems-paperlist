@@ -55,7 +55,8 @@
   * Gated Attentive-Autoencoder for Content-Aware Recommendation [WSDM 2019]
     - code : https://github.com/allenjack/GATE
   * DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation [KDD 2019]   
-    
+  * Attentive Aspect Modeling for Review-Aware Recommendation [TOIS 2019] 
+     - code : https://github.com/XinyuGuan01/Attentive-Aspect-based-Recommendation-Model
 ## Explainable Recommendation Systems
 * Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018]
