@@ -57,10 +57,13 @@
   * DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation [KDD 2019]   
   * Attentive Aspect Modeling for Review-Aware Recommendation [TOIS 2019] 
      - code : https://github.com/XinyuGuan01/Attentive-Aspect-based-Recommendation-Model
+  * Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network [EMNLP 2019]
+  
 ## Explainable Recommendation Systems
 * Social Collaborative Viewpoint Regression with Explainable Recommendations [WSDM 2017]
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018]
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
+* Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects [EMNLP 2019]
 
 ## Session-Based Recommendation Systems
 ### Markov-chain based approach
@@ -134,6 +137,8 @@
 * Embedding-based News Recommendation for Millions of Users [KDD 2017]
 * DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] 
 * NPA: Neural News Recommendation with Personalized Attention [KDD 2019]
+* Neural News Recommendation with Heterogeneous User Behavior [EMNLP 2019]
+* Neural News Recommendation with Multi-Head Self-Attention [EMNLP 2019]
 
 ### Video Recommendation
 * Video suggestion and discovery for youtube: taking random walks through the view graph [WWW 2008]
