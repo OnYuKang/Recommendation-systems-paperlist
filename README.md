@@ -64,6 +64,7 @@
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018]
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018]
 * Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects [EMNLP 2019]
+* Dynamic Explainable Recommendation based on Neural Attentive Models [AAAI 2019]
 
 ## Session-Based Recommendation Systems
 ### Markov-chain based approach
