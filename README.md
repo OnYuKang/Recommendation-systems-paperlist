@@ -137,6 +137,7 @@
 * Embedding-based News Recommendation for Millions of Users [KDD 2017]
 * DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] 
 * NPA: Neural News Recommendation with Personalized Attention [KDD 2019]
+  - code : https://github.com/wuch15/KDD-NPA
 * Neural News Recommendation with Heterogeneous User Behavior [EMNLP 2019]
 * Neural News Recommendation with Multi-Head Self-Attention [EMNLP 2019]
 
