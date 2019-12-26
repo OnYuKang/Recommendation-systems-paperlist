@@ -177,7 +177,11 @@
 * Recurrent Recommender Networks [WSDM 2017]
 * Recurrent Recommendation with Local Coherence [WSDM 2019]
 
-## Multi-Armed Bandit
+## Reinforcement Learning
+* Text-Based Interactive Recommendation via Constraint-Augmented Reinforcement Learning [NeurlPS 2019]
+* Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation [NeurlPS 2019]
+
+### Multi-Armed Bandit
 * A Contextual-Bandit Approach to Personalized News Article Recommendation [WWW 2010]
 * A survey of online experiment design with the stochastic multi-armed bandit [2015] [[__pdf__](https://arxiv.org/pdf/1510.00757.pdf)]
 * Collaborative filtering as a multi-armed bandit [NIPS 2015]
