@@ -22,6 +22,7 @@
 * GhostLink: Latent Network Inference for Influence-aware Recommendation [WWW 2019]
 * SamWalker: Social Recommendation with Informative Sampling Strategy [WWW 2019]
 * Social Recommendation with Optimal Limited Attention [KDD 2019]
+* Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction [KDD 2019]
 
 ## Recommendation Systems with Text Information
   ### Topic-based approach
@@ -164,6 +165,10 @@
 * A hybrid two-stage recommender system for automatic playlist continuation [RecSys 2018]
   - code : https://github.com/VasiliyRubtsov/recsys2018
 
+### Route Recommendation
+* Effective and Efficient Reuse of Past Travel Behavior for Route Recommendation [KDD 2019]
+* Empowering A* Search Algorithms with Neural Networks for Personalized Route Recommendation [KDD 2019]
+
 ### Image Recommendation
 * Pagerank for product image search [WWW 2008]
 * Related Pins at Pinterest: The Evolution of a Real-World Recommender System [WWW 2017]
@@ -187,6 +192,9 @@
 * Collaborative filtering as a multi-armed bandit [NIPS 2015]
 * Online Context-Aware Recommendation with Time Varying Multi-Arm Bandit [KDD 2016]
 * Collaborative Filtering Bandits [SIGIR 2016]
+
+## Cold-start Problem
+* MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation [KDD 2019]
 
 ## Out of Category
 * Learning Multiple Similarities of Users and Items in Recommender Systems [ICDM 2017]
